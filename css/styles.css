@@ -235,6 +235,7 @@ img {
 
 .activity-section {
     background-color: var(--body-color);
+    padding-bottom: 94px;
 }
 
 .activity-title,
@@ -273,6 +274,7 @@ img {
     text-align: center;
     color: var(--main-text-color);
     margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .team-position {
@@ -281,6 +283,7 @@ img {
     letter-spacing: 0.03em;
     text-align: center;
     color: var(--second-text-color);
+    margin-bottom: 0;
 }
 
 /*Footer*/
