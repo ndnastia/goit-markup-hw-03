@@ -320,9 +320,13 @@ img {
 }
 
 .contact-bottom {
-    margin-bottom: 12px;
     display: block;
+    margin-bottom: 12px;
 
+}
+
+.contact-bottom:last-child {
+    margin-bottom: 0;
 }
 
 
